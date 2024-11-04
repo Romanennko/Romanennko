@@ -11,7 +11,7 @@
 ## My technology stack
 <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/C-black?style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/C Sharp-black?style=for-the-badge&logo=sharp&logoColor=white"/> <img src="https://img.shields.io/badge/Assembly-black?style=for-the-badge&logo=assemblyscript&logoColor=white"/> <img src="https://img.shields.io/badge/Kivy-black?style=for-the-badge&logo=Kivy&logoColor=white"/> <img src="https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/Django-black?style=for-the-badge&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=white"/>
 
-## 📈 My statistics
+## My statistics
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Romanennko&show_icons=true&theme=highcontrast)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Romanennko&layout=compact&theme=highcontrast)
 
