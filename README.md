@@ -16,3 +16,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Romanennko&layout=compact&theme=highcontrast)
 
 ![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Romanennko&theme=high-contrast)
+
+![Codewars](https://www.codewars.com/users/Valentionio/badges/large)
