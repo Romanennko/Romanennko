@@ -7,9 +7,4 @@
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 ## My statistics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Romanennko&show_icons=true&theme=highcontrast)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Romanennko&layout=compact&theme=highcontrast)
-
-![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Romanennko&theme=high-contrast)
-
-![Codewars](https://www.codewars.com/users/Valentionio/badges/large)
